@@ -1,4 +1,4 @@
-namespace drg_group.tongchuan_2022
+namespace drg_group.chs_drg_11
 {
     public class MDCB_DRG 
     {

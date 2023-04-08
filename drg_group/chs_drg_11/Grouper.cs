@@ -1,6 +1,5 @@
-using drg_group.tongchuan_2022;
 
-namespace drg_group
+namespace drg_group.chs_drg_11
 {
     public class Grouper 
     {

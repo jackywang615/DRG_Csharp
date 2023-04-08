@@ -1,4 +1,4 @@
-namespace drg_group.tongchuan_2022{
+namespace drg_group.chs_drg_11{
     public class FU2
     {
         public static String group(MedicalRecord record)

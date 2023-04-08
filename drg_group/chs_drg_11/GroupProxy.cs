@@ -12,7 +12,7 @@ namespace drg_group
     public class GroupProxy
     {
         
-        GroupDelegate groupDelegate=new GroupDelegate(Grouper_tongchuan_2022.group);
+        GroupDelegate groupDelegate=new GroupDelegate(Grouper_chs_drg_11.group);
         public delegate GroupResult GroupDelegate(MedicalRecord record);
         private static Dictionary<String,String> ZD_INFO=read_dataFile("ICD","ZD_INFO");
         private static Dictionary<String,String> SS_INFO=read_dataFile("ICD","SS_INFO");
